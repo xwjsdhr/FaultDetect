@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndroidStudioWorkspace\FaultDetect\library_happyWealth\src\main\assets"><file name="appIcon.png" path="D:\AndroidStudioWorkspace\FaultDetect\library_happyWealth\src\main\assets\appIcon.png"/></source><source path="D:\AndroidStudioWorkspace\FaultDetect\library_happyWealth\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\AndroidStudioWorkspace\FaultDetect\library_happyWealth\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_bottom.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\scale_in.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\anim\\scale_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\translate_up_current.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\anim\\translate_up_current.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\activity_alpha_action_in.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\anim\\activity_alpha_action_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_from_bottom.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\translate_down_current.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\anim\\translate_down_current.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\cycle_7.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\dialog_out_anim.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\anim\\dialog_out_anim.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pb_default.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\anim\\pb_default.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\dialog_in_anim.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\anim\\dialog_in_anim.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\shake.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\translate_down.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\anim\\translate_down.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\translate_up.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\anim\\translate_up.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\fade_out.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\fade_in.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\anim\\fade_in.xml"
+    }
+]

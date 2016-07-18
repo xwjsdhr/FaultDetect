@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar"></style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="cpbStyle">@style/CircularProgressBar</item>
+    </style>
+
+</resources>

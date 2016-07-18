@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="more_than_max">超过了上限</string>
+    <string name="preview">预览</string>
+    <string name="recent_photos">最近照片</string>
+    <string name="sure">确定</string>
+    <string name="select_photos">选择照片</string>
+    <string name="back">返回</string>
+    <string name="taking_pictures">拍摄照片</string>
+    <string name="max_img_limit_reached">不能选择超过%d个图像</string>
+
+    <string name="common_loading_message">加载中...</string>
+    <string name="common_empty_msg">暂无信息</string>
+    <string name="common_error_msg">加载信息错误</string>
+    <string name="common_no_network_msg">网络连接失败!\n请确认网络是否正常，点击屏幕重试~</string>
+</resources>

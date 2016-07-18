@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/rl_base_top"
+        android:layout_width="fill_parent"
+        android:layout_height="90px"
+        android:layout_alignParentTop="true"
+        android:background="@color/cl_main" >
+
+        <LinearLayout
+            android:id="@+id/btn_base_back"
+            android:layout_width="90px"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:background="@drawable/dw_btn_title_pressed"
+            android:clickable="true"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/tv_base_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="22px"
+                android:background="@mipmap/icon_back"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_font_second_title" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btn_base_right"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:minWidth="90px"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/dw_btn_title_pressed"
+            android:clickable="true"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/tv_base_right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="22px"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_font_second_title" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_base_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="故障检测"
+            android:gravity="center"
+            android:textColor="@color/White"
+            android:textSize="@dimen/text_font_title"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>

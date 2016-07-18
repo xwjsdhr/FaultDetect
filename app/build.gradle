@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.0"
+
+    defaultConfig {
+        applicationId "info.faultdetect.com.faultdetect"
+        minSdkVersion 15
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    repositories {
+        flatDir {
+            dirs 'libs' //this way we can find the .aar file in libs folder
+        }
+    }
+}
+
+dependencies {
+    compile project(':library_happyWealth')
+    compile files('libs/oss-0.3.0.jar')
+    compile 'cn.bingoogolapple:bga-refreshlayout:1.1.5@aar'
+    compile(name: 'autolayout-1.0', ext: 'aar')
+}

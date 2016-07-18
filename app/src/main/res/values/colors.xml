@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="cl_main">#00A0EA</color>
+    <color name="cl_home_tab_n">#8d8d8d</color>
+    <color name="cl_second_content">@color/cl_home_tab_n</color>
+    <color name="cl_app_bg">#f3f3f3</color>
+    <color name="cl_base_title">@color/cl_main</color>
+    <color name="cl_main_bule">#267FF1</color>
+</resources>
