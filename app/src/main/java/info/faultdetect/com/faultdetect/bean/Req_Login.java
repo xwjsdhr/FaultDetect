@@ -7,6 +7,10 @@ public class Req_Login {
     private String userInput;
     private String pwd;
 
+    public Req_Login(String userInput, String pwd) {
+        this.userInput = userInput;
+        this.pwd = pwd;
+    }
 
     public String getUserInput() {
         return userInput;
