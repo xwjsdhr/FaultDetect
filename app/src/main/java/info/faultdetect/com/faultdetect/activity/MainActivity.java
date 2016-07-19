@@ -7,7 +7,6 @@ import com.hw.common.web.FastHttp;
 import info.faultdetect.com.faultdetect.MyApplication;
 import info.faultdetect.com.faultdetect.R;
 import info.faultdetect.com.faultdetect.bean.BaseAjaxCallBack;
-import info.faultdetect.com.faultdetect.bean.Req_Login;
 import info.faultdetect.com.faultdetect.bean.Req_Regist;
 import info.faultdetect.com.faultdetect.bean.Res_UserInfo;
 
@@ -50,15 +49,7 @@ public class MainActivity extends BaseActivity {
     }
 
     private void login(){
-        FastHttp.ajaxGetByBean(MyApplication.SERVER_URL + "login.html", new Req_Login("aa123a","a123456"),new BaseAjaxCallBack() {
-            public void onSuccess(Res_BaseBean t) {
 
-            }
-
-            public void onFailure(int status, String msg) {
-
-            }
-        });
     }
 
     @Override

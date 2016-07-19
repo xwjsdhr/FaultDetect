@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bg_login"
+    android:gravity="center_vertical"
+    android:paddingLeft="32dp"
+    android:paddingRight="32dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:divider="@drawable/divider_line_login_v"
+        android:showDividers="middle"
+        android:background="@drawable/dw_login_edit">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:src="@mipmap/ic_login_user"/>
+
+            <EditText
+                android:id="@+id/edt_login_name"
+                style="@style/style_edit"
+                android:hint="请输入用户名"
+                android:text="aa123a"
+                android:textColorHint="@color/white"
+                />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/white"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:src="@mipmap/ic_login_pwd"/>
+
+            <EditText
+                android:id="@+id/edt_login_pwd"
+                style="@style/style_edit"
+                android:text="a123456"
+                android:hint="请输入密码"
+                android:inputType="textPassword"
+                android:textColorHint="@color/white"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_login"
+        style="@style/style_button"
+        android:background="@drawable/dw_login_btn"
+        android:text="登录"
+        android:layout_marginTop="32dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="16dp">
+
+        <TextView
+            android:id="@+id/btn_login_forget_pwd"
+            style="@style/style_text"
+            android:textColor="@color/white"
+            android:text="找回密码?"/>
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"></View>
+
+        <TextView
+            android:id="@+id/btn_login_regist"
+            style="@style/style_text"
+            android:textColor="@color/white"
+            android:text="立即注册"/>
+    </LinearLayout>
+
+
+</LinearLayout>
