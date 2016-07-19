@@ -185,8 +185,9 @@
                 android:textSize="@dimen/text_font_second_title" />
 
             <TextView
+                android:id="@+id/btn_user_nick_name"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_marginLeft="20px"
                 android:layout_marginRight="20px"
                 android:drawableRight="@drawable/dw_arrow_right"
@@ -217,8 +218,9 @@
                 android:textSize="@dimen/text_font_second_title" />
 
             <TextView
+                android:id="@+id/btn_user_true_name"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_marginLeft="20px"
                 android:layout_marginRight="20px"
                 android:drawableRight="@drawable/dw_arrow_right"
@@ -254,8 +256,9 @@
                 android:textSize="@dimen/text_font_second_title" />
 
             <TextView
+                android:id="@+id/btn_user_sex"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_marginLeft="20px"
                 android:layout_marginRight="20px"
                 android:drawableRight="@drawable/dw_arrow_right"
@@ -286,8 +289,9 @@
                 android:textSize="@dimen/text_font_second_title" />
 
             <TextView
+                android:id="@+id/btn_user_pwd"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_marginLeft="20px"
                 android:layout_marginRight="20px"
                 android:drawableRight="@drawable/dw_arrow_right"
@@ -318,8 +322,9 @@
             android:textSize="@dimen/text_font_second_title" />
 
         <TextView
+            android:id="@+id/btn_user_company"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:layout_marginLeft="20px"
             android:layout_marginRight="20px"
             android:drawableRight="@drawable/dw_arrow_right"

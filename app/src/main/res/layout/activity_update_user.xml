@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        style="@style/style_edit"
+        android:id="@+id/edt_update_user"
+        android:layout_width="match_parent"
+        android:layout_margin="30px"
+        android:layout_height="90px"
+        android:background="@color/white"/>
+</LinearLayout>

@@ -23,6 +23,9 @@
         <activity
             android:name=".activity.LoginActivity"
             android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".activity.UpdateUserActivity"
+            android:screenOrientation="portrait"></activity>
 
         <meta-data
             android:name="design_width"

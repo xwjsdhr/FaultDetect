@@ -1,5 +1,7 @@
 package info.faultdetect.com.faultdetect.activity;
 
+import android.widget.TextView;
+
 import com.hw.common.utils.basicUtils.MLogUtil;
 import com.hw.common.utils.basicUtils.SystemUtils;
 import com.hw.common.web.FastHttp;
@@ -11,7 +13,7 @@ import info.faultdetect.com.faultdetect.bean.Req_Regist;
 import info.faultdetect.com.faultdetect.bean.Res_UserInfo;
 
 public class MainActivity extends BaseActivity {
-    @Override
+    private TextView btn_user_nick_name,btn_user_true_name,btn_user_sex,btn_user_pwd,btn_user_company;
     protected void init() {
 
     }
@@ -19,6 +21,12 @@ public class MainActivity extends BaseActivity {
     @Override
     protected void initView() {
         addContentView(R.layout.activity_main);
+
+        btn_user_nick_name = (TextView) this.findViewById(R.id.btn_user_nick_name);
+        btn_user_true_name = (TextView) this.findViewById(R.id.btn_user_true_name);
+        btn_user_sex = (TextView) this.findViewById(R.id.btn_user_sex);
+        btn_user_pwd = (TextView) this.findViewById(R.id.btn_user_pwd);
+        btn_user_company = (TextView) this.findViewById(R.id.btn_user_company);
     }
 
     private void getRegistHelp(){
@@ -48,15 +56,11 @@ public class MainActivity extends BaseActivity {
         });
     }
 
-    private void login(){
-
-    }
 
     @Override
     protected void loadData() {
 //        regist();
         getRegistHelp();
-        login();
     }
 
     @Override
