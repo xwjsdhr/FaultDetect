@@ -76,6 +76,6 @@ public class MainActivity extends BaseActivity {
     }
 
     public void show(View view) {
-        startActivity(ForgetPwdActivity.class);
+        startActivity(UpdatePwdActivity.class);
     }
 }

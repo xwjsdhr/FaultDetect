@@ -19,6 +19,8 @@
         <activity android:name=".activity.ForgetPwdActivity" />
         <activity android:name=".activity.UpdatePwdActivity" />
 
+        <activity android:name=".activity.RegistActivity" />
+
         <meta-data
             android:name="design_width"
             android:value="640" />
