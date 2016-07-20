@@ -1,238 +1,474 @@
 [
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_album_border.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\bg_album_border.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_socialize_wechat.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wechat.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_socialize_wechat.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wechat.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pulltorefresh_arrow_up.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_pulltorefresh_arrow_up.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\list_pressed_holo_dark.9.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\list_pressed_holo_dark.9.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/bg_title_normal.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/bg_title_normal.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_back_arrow_white_normal.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_back_arrow_white_normal.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_back_arrow_white_normal.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_back_arrow_white_normal.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_socialize_wechat_gray.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wechat_gray.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/share_sinaweibo.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/share_sinaweibo.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_pressed.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_camera_pressed.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/list_longpressed_holo.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/list_longpressed_holo.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_back_arrow_white_pressed.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_back_arrow_white_pressed.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_back_arrow_white_pressed.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_back_arrow_white_pressed.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_other.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_other.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/share_qq.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/share_qq.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_tencentweibo.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_tencentweibo.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/share_copylink.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/share_copylink.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrow_right_p.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\arrow_right_p.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/share_platform_qrcode.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/share_platform_qrcode.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_camera_p.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\btn_camera_p.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_picture_loading.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_picture_loading.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_normal.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_camera_normal.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_socialize_wechat.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/umeng_socialize_wechat.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_picture_loading.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_picture_loading.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_title.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\bg_title.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_loading_white.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_loading_white.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_dialog_gray.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_dialog_gray.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_title.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\bg_title.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrow.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\arrow.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\list_pressed_holo_light.9.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\list_pressed_holo_light.9.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_choice_green.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_choice_green.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_dialog_gray.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_dialog_gray.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading_gray_progressbar.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\loading_gray_progressbar.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrow.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\arrow.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_socialize_wxcircle_gray.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/umeng_socialize_wxcircle_gray.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_copylink.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_copylink.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\np_numberpicker_selection_divider.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\np_numberpicker_selection_divider.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_choice_green.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_choice_green.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/arrow.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/arrow.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading_gray_progressbar.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\loading_gray_progressbar.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/arrow_right.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/arrow_right.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\np_numberpicker_selection_divider.9.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\np_numberpicker_selection_divider.9.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_checkbox_pressed.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_checkbox_pressed.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_main_search.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\icon_main_search.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/share_platform_evernote.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/share_platform_evernote.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_checkbox_pressed.9.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_checkbox_pressed.9.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/dialog_background.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/dialog_background.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_dark.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\bg_dark.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\list_longpressed_holo.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\list_longpressed_holo.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_qq.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_qq.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_platform_renren.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_platform_renren.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\list_longpressed_holo.9.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\list_longpressed_holo.9.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/np_numberpicker_selection_divider.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/np_numberpicker_selection_divider.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_platform_renren.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_platform_renren.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\list_focused_holo.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\list_focused_holo.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_spinner_white.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_spinner_white.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/share_tencentweibo.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/share_tencentweibo.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_empty_error.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_empty_error.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_wechat.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_wechat.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\list_focused_holo.9.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\list_focused_holo.9.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_title_btn_back.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_title_btn_back.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_socialize_wxcircle.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wxcircle.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/bg_title_pressed.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/bg_title_pressed.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_socialize_wxcircle_gray.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wxcircle_gray.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_title_pressed.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\bg_title_pressed.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_wechat.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_wechat.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_checkbox_pressed.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_checkbox_pressed.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_title_btn_back.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_title_btn_back.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/icon_main_search.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/icon_main_search.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_qzone.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_qzone.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/loading_gray_progressbar.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/loading_gray_progressbar.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_title_pressed.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\bg_title_pressed.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_grey_dark.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\bg_grey_dark.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_pulltorefresh_arrow.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_pulltorefresh_arrow.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_empty_error.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_empty_error.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_picture_loadfailed.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_picture_loadfailed.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_camera_pressed.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_camera_pressed.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\list_selector_disabled_holo_dark.9.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\list_selector_disabled_holo_dark.9.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/default_ptr_rotate.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/default_ptr_rotate.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\lib_loading.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\lib_loading.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_sinaweibo.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_sinaweibo.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_platform_qrcode.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_platform_qrcode.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_grey_dark.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\bg_grey_dark.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_picture_loadfailed.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_picture_loadfailed.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_dark_translucent.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\bg_dark_translucent.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_checkbox_normal.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_checkbox_normal.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_empty_exception.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_empty_exception.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\dialog_background.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\dialog_background.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_pulltorefresh_arrow_up.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_pulltorefresh_arrow_up.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\default_ptr_rotate.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_platform_qrcode.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_platform_qrcode.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_shortmessage.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_shortmessage.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\img_loading.9.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\img_loading.9.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_title_normal.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\bg_title_normal.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_wechatmoments.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_wechatmoments.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrow_right.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_camera_n.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\btn_camera_n.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_camera_n.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/btn_camera_n.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_checkbox_normal.9.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_checkbox_normal.9.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_picture_loading.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_picture_loading.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\dialog_background.9.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\dialog_background.9.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/share_platform_renren.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/share_platform_renren.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\default_ptr_rotate.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\default_ptr_rotate.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/lib_loading.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/lib_loading.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_shortmessage.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_shortmessage.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/list_selector_disabled_holo_light.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_title_normal.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\bg_title_normal.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_album_border.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\bg_album_border.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrow_right.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\list_pressed_holo_dark.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_platform_evernote.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_platform_evernote.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/share_shortmessage.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/share_shortmessage.png"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\list_selector_disabled_holo_light.9.png",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\list_selector_disabled_holo_light.9.png"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_socialize_wechat_gray.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_back_arrow_white_normal.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_back_arrow_white_normal.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/list_focused_holo.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_pressed.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_camera_pressed.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_other.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_other.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_checkbox_normal.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_checkbox_normal.9.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_tencentweibo.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_tencentweibo.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrow_right_p.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\arrow_right_p.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_socialize_wechat_gray.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_camera_p.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\btn_camera_p.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_normal.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_camera_normal.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_loading_white.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_loading_white.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\list_pressed_holo_light.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_spinner_white.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_spinner_white.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_copylink.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_copylink.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_main_search.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\icon_main_search.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/list_pressed_holo_light.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_camera_p.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/btn_camera_p.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/bg_title.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/bg_title.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_dark.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\bg_dark.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/bg_album_border.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/bg_album_border.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_qq.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_qq.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/share_wechatmoments.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/share_wechatmoments.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_choice_green.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_choice_green.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_dialog_gray.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_dialog_gray.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/bg_dark_translucent.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/bg_dark_translucent.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_title_btn_back.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_title_btn_back.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/img_loading.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/img_loading.9.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_spinner_white.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_spinner_white.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_socialize_wxcircle.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_empty_error.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_empty_error.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/share_wechat.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/share_wechat.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_socialize_wxcircle.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_socialize_wxcircle_gray.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_qzone.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_qzone.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/list_pressed_holo_dark.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/share_qzone.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/share_qzone.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_pulltorefresh_arrow.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_picture_loadfailed.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_picture_loadfailed.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_sinaweibo.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_sinaweibo.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\lib_loading.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\lib_loading.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_dark_translucent.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\bg_dark_translucent.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_empty_exception.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_empty_exception.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_pulltorefresh_arrow_up.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\ic_pulltorefresh_arrow_up.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/bg_dark.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/bg_dark.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_back_arrow_white_pressed.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_back_arrow_white_pressed.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\img_loading.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\img_loading.9.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_wechatmoments.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_wechatmoments.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_camera_n.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\btn_camera_n.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/bg_grey_dark.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/bg_grey_dark.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_loading_white.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_loading_white.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_empty_exception.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_empty_exception.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_platform_evernote.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\share_platform_evernote.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pulltorefresh_arrow.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/arrow_right_p.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/arrow_right_p.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_camera_normal.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/ic_camera_normal.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\list_selector_disabled_holo_light.9.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\drawable-hdpi\\list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/drawable-hdpi-v4/share_other.png",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/drawable-hdpi/share_other.png"
     }
 ]
