@@ -6,7 +6,8 @@ import android.widget.EditText;
 import info.faultdetect.com.faultdetect.R;
 
 /**
- * Created by nicai on 2016/7/18.
+ * Created by nicai on 2016/7/19.
+ * email：930324291@qq.com
  */
 public class RegistActivity extends BaseActivity {
     private EditText et_register_phone, et_register_verifyCode, et_register_pwd, et_register_pwd2;

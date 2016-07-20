@@ -4,7 +4,7 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-    <color name="cl_main">#00A0EA</color>
+    <color name="cl_main">#3883CD</color>
     <color name="cl_home_tab_n">#8d8d8d</color>
     <color name="cl_second_content">@color/cl_home_tab_n</color>
     <color name="cl_app_bg">#f3f3f3</color>

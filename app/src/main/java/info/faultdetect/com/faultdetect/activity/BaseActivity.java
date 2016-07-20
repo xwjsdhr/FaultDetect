@@ -32,6 +32,10 @@ import cn.bingoogolapple.refreshlayout.BGARefreshLayout;
 import info.faultdetect.com.faultdetect.MyApplication;
 import info.faultdetect.com.faultdetect.R;
 
+/**
+ * Created by nicai on 2016/7/19.
+ * email：930324291@qq.com
+ */
 @SuppressLint("NewApi")
 public abstract class BaseActivity extends FragmentActivity {
     private View title;
