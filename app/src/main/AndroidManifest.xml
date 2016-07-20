@@ -27,6 +27,8 @@
             android:name=".activity.UpdateUserActivity"
             android:screenOrientation="portrait"></activity>
 
+        <activity android:name=".activity.RegistActivity" />
+
         <meta-data
             android:name="design_width"
             android:value="640" />
