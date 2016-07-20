@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="560px"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+
+    <TextView
+        style="@style/style_text"
+        android:text="性别"
+        android:layout_width="match_parent"
+        android:layout_height="90px"
+        android:paddingLeft="20px"
+        android:textSize="@dimen/text_font_second_title"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/cl_app_bg"></View>
+
+    <RadioGroup
+        android:id="@+id/rb_sex"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rb_sex_man"
+            android:layout_width="match_parent"
+            android:layout_height="90px"
+            android:paddingLeft="40px"
+            android:paddingRight="20px"
+            android:text="男"
+            android:checked="true"
+            android:textColor="@color/beautiful_black"
+            android:drawableRight="@drawable/checkbox_selecter_drawable"
+            android:button="@null"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/cl_app_bg"></View>
+
+        <RadioButton
+            android:id="@+id/rb_sex_woman"
+            android:layout_width="match_parent"
+            android:layout_height="90px"
+            android:paddingLeft="40px"
+            android:paddingRight="20px"
+            android:text="女"
+            android:textColor="@color/beautiful_black"
+            android:drawableRight="@drawable/checkbox_selecter_drawable"
+            android:button="@null"/>
+
+    </RadioGroup>
+</LinearLayout>
