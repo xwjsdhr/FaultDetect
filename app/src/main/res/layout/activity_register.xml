@@ -24,7 +24,7 @@
             android:src="@mipmap/phone" />
 
         <EditText
-            android:id="@+id/et_forget_pwd_phone"
+            android:id="@+id/et_register_phone"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
@@ -39,7 +39,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="48dp"
-        android:layout_marginBottom="4dp"
+        android:layout_marginBottom="8dp"
         android:layout_marginTop="4dp"
         android:background="@drawable/ll_bg"
         android:gravity="center_vertical"
@@ -53,7 +53,7 @@
             android:src="@mipmap/key" />
 
         <EditText
-            android:id="@+id/et_forget_pwd_verifyCode"
+            android:id="@+id/et_register_verifyCode"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
@@ -71,9 +71,8 @@
             android:layout_marginTop="10dp"
             android:background="#3484ca" />
 
-
         <Button
-            android:id="@+id/btn_forget_pwd_get_verifyCode"
+            android:id="@+id/btn_register_get_verifyCode"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
@@ -82,6 +81,35 @@
             android:textColor="#3484ca"
             android:textSize="@dimen/font_normal" />
 
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginBottom="4dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/ll_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@mipmap/lock" />
+
+        <EditText
+            android:id="@+id/et_register_pwd"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:hint="请输入密码"
+            android:inputType="textPassword"
+            android:textColorHint="#bfbfbf"
+            android:textSize="@dimen/font_normal" />
     </LinearLayout>
 
     <LinearLayout
@@ -100,39 +128,25 @@
             android:src="@mipmap/lock" />
 
         <EditText
-            android:id="@+id/et_forget_pwd_pwd"
+            android:id="@+id/et_register_pwd2"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
             android:layout_weight="1"
             android:background="@color/white"
-            android:hint="请设置新的登陆密码"
+            android:hint="请再次输入密码"
             android:inputType="textPassword"
             android:textColorHint="#bfbfbf"
             android:textSize="@dimen/font_normal" />
     </LinearLayout>
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
-        android:layout_marginTop="16dp"
-        android:orientation="vertical">
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="备注：请将密码设置为8-16位，并由字母，数字和符号两种以上组合，不能与旧密码相同！"
-            android:textColor="#878787" />
-
-    </LinearLayout>
 
     <Button
-        android:id="@+id/btn_forget_pwd_ok"
+        android:id="@+id/btn_register_ok"
         android:layout_width="match_parent"
         android:layout_height="48dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="24dp"
         android:background="#3484ca"
-        android:text="完成"
+        android:text="注册"
         android:textColor="@color/white" />
 </LinearLayout>
