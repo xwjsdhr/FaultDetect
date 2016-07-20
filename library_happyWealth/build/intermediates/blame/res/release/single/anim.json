@@ -1,62 +1,122 @@
 [
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\dialog_out_anim.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\dialog_out_anim.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/anim/translate_up.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/anim/translate_up.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_bottom.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\slide_out_bottom.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\dialog_out_anim.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\dialog_out_anim.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\shake.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\shake.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_bottom.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\slide_out_bottom.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\scale_in.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\scale_in.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/anim/pb_default.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/anim/pb_default.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\translate_up.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\translate_up.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\translate_up.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\translate_up.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\translate_up_current.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\translate_up_current.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\translate_up_current.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\translate_up_current.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\translate_down_current.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\translate_down_current.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/anim/slide_from_bottom.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/anim/slide_from_bottom.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\pb_default.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\pb_default.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/anim/fade_out.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\fade_in.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/anim/shake.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/anim/shake.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\dialog_in_anim.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\dialog_in_anim.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\translate_down.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\translate_down.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\translate_down.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\translate_down.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\activity_alpha_action_in.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\activity_alpha_action_in.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\activity_alpha_action_in.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\activity_alpha_action_in.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/anim/dialog_in_anim.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/anim/dialog_in_anim.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\fade_out.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\fade_out.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\slide_from_bottom.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\slide_from_bottom.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\slide_from_bottom.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\slide_from_bottom.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/anim/scale_in.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/anim/scale_in.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\cycle_7.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\cycle_7.xml"
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/anim/cycle_7.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/anim/cycle_7.xml"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/anim/translate_down_current.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/anim/translate_down_current.xml"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\shake.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\scale_in.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\scale_in.xml"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\translate_down_current.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\translate_down_current.xml"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\pb_default.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\pb_default.xml"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/anim/translate_up_current.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/anim/translate_up_current.xml"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\dialog_in_anim.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\dialog_in_anim.xml"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/anim/dialog_out_anim.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/anim/dialog_out_anim.xml"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\fade_out.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/anim/activity_alpha_action_in.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/anim/activity_alpha_action_in.xml"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/anim/translate_down.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/anim/translate_down.xml"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/build/intermediates/res/merged/release/anim/slide_out_bottom.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/library_happyWealth/src/main/res/anim/slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\anim\\cycle_7.xml",
+        "source": "/Users/xiaweijia/Downloads/FaultDetect/D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\anim\\cycle_7.xml"
     }
 ]
