@@ -71,7 +71,7 @@
             android:layout_marginTop="10dp"
             android:background="#3484ca" />
 
-        <Button
+        <TextView
             android:id="@+id/btn_register_get_verifyCode"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

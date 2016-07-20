@@ -1,23 +1,20 @@
 package info.faultdetect.com.faultdetect.bean;
 
-public class Req_Regist {
-    private String name;
-    private String pwd;
+/**
+ * Created by nicai on 2016/7/20.
+ * email：930324291@qq.com
+ */
+public class UserInfo extends Req_BaseBean{
+    private String userid;
+    private String userName;
     private String nickName;
     private String account;
     private String tel;
     private String email;
-    private String organizationId;
-    private String jym;
     private String xb;
-
-    public String getJym() {
-        return jym;
-    }
-
-    public void setJym(String jym) {
-        this.jym = jym;
-    }
+    private String organizationId;
+    private String state;
+    private Res_Company belongedOrganizations;
 
     public String getXb() {
         return xb;
@@ -27,20 +24,20 @@ public class Req_Regist {
         this.xb = xb;
     }
 
-    public String getPwd() {
-        return pwd;
+    public String getUserid() {
+        return userid;
     }
 
-    public void setPwd(String pwd) {
-        this.pwd = pwd;
+    public void setUserid(String userid) {
+        this.userid = userid;
     }
 
-    public String getName() {
-        return name;
+    public String getUserName() {
+        return userName;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setUserName(String userName) {
+        this.userName = userName;
     }
 
     public String getNickName() {
@@ -83,11 +80,19 @@ public class Req_Regist {
         this.organizationId = organizationId;
     }
 
-    public Req_Regist(String tel, String pwd,  String jym) {
-        this.jym = jym;
-        this.pwd = pwd;
-        this.tel = tel;
+    public String getState() {
+        return state;
     }
 
-    public Req_Regist(){}
+    public void setState(String state) {
+        this.state = state;
+    }
+
+    public Res_Company getBelongedOrganizations() {
+        return belongedOrganizations;
+    }
+
+    public void setBelongedOrganizations(Res_Company belongedOrganizations) {
+        this.belongedOrganizations = belongedOrganizations;
+    }
 }

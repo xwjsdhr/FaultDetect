@@ -191,6 +191,14 @@ public abstract class BaseActivity extends FragmentActivity {
         // android.R.anim.fade_out);
     }
 
+    protected void startActivityForResult(Class<?> clazz, int requestCode, Bundle bundle) {
+        Intent intent = new Intent(this, clazz);
+        if (null != bundle) {
+            intent.putExtras(bundle);
+        }
+        startActivityForResult(intent, requestCode);
+    }
+
     /**
      * 销毁方法
      */

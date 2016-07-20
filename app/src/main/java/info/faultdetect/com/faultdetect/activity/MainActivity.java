@@ -1,6 +1,7 @@
 package info.faultdetect.com.faultdetect.activity;
 
 import android.app.Dialog;
+import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
@@ -11,17 +12,16 @@ import android.widget.LinearLayout;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
-import com.hw.common.utils.basicUtils.MLogUtil;
+import com.hw.common.ui.dialog.DialogUtil;
 import com.hw.common.utils.basicUtils.SystemUtils;
 import com.hw.common.web.FastHttp;
 
 import info.faultdetect.com.faultdetect.MyApplication;
 import info.faultdetect.com.faultdetect.R;
 import info.faultdetect.com.faultdetect.bean.BaseAjaxCallBack;
-import info.faultdetect.com.faultdetect.bean.Req_Login;
-import info.faultdetect.com.faultdetect.bean.Req_Regist;
-import info.faultdetect.com.faultdetect.bean.Res_UserInfo;
+import info.faultdetect.com.faultdetect.bean.UserInfo;
 import info.faultdetect.com.faultdetect.utils.Constant;
+import info.faultdetect.com.faultdetect.utils.ToastUtil;
 
 /**
  * Created by nicai on 2016/7/19.
@@ -52,7 +52,6 @@ public class MainActivity extends BaseActivity implements View.OnClickListener{
         rb_sex = (RadioGroup) contentView.findViewById(R.id.rb_sex);
 
         sexDialog = new Dialog(this);
-//        sexDialog.setCancelable(false);
         sexDialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
         LinearLayout.LayoutParams layoutParams =
                 new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT,
@@ -63,10 +62,9 @@ public class MainActivity extends BaseActivity implements View.OnClickListener{
     }
 
     private void getRegistHelp() {
-        FastHttp.ajaxGetByBean(MyApplication.SERVER_URL + " register/getRegisterHelpInfo.html?rdid=" + SystemUtils.getDeviceID(MyApplication.getApplication().getApplicationContext()), null, new BaseAjaxCallBack() {
+        FastHttp.ajaxGetByBean(MyApplication.SERVER_URL + "register/getRegisterHelpInfo.html?rdid=" + SystemUtils.getDeviceID(MyApplication.getApplication().getApplicationContext()), null, new BaseAjaxCallBack() {
             public void onSuccess(Res_BaseBean t) {
-                Res_UserInfo.UserInfo userInfo = t.getData(Res_UserInfo.class).getUserAccountDescriptor();
-                MLogUtil.e("userInfo " + userInfo.getUserid());
+
             }
 
             public void onFailure(int status, String msg) {
@@ -75,30 +73,48 @@ public class MainActivity extends BaseActivity implements View.OnClickListener{
         });
     }
 
-    private void regist() {
-        Req_Regist req_regist = new Req_Regist("aaaa", "哈哈", "aa123a", "a123456", "", "", "20001");
-        FastHttp.ajaxGetByBean(MyApplication.SERVER_URL + "register/register.html", req_regist, new BaseAjaxCallBack() {
-            public void onSuccess(Res_BaseBean t) {
-                Res_UserInfo.UserInfo userInfo = t.getData(Res_UserInfo.class).getUserAccountDescriptor();
-                MLogUtil.e("userInfo " + userInfo.getUserid());
-            }
+    @Override
+    protected void onResume() {
+        super.onResume();
 
-            public void onFailure(int status, String msg) {
-
+        UserInfo userInfo= MyApplication.getApplication().getUserInfo();
+        if(userInfo != null){
+            btn_user_nick_name.setText(userInfo.getNickName());
+            btn_user_true_name.setText(userInfo.getUserName());
+            btn_user_sex.setText(userInfo.getXb());
+            if(userInfo.getBelongedOrganizations() != null){
+                btn_user_company.setText(userInfo.getBelongedOrganizations().getName());
             }
-        });
+        }
+
+//        DialogUtil.showLoadingDialog(this);
+//        FastHttp.ajaxGetByBean(MyApplication.SERVER_URL + "register/GetRegisterInfomation.html?userid=" + MyApplication.getApplication().getUserId(), null, new BaseAjaxCallBack() {
+//            public void onSuccess(Res_BaseBean t) {
+//
+//            }
+//
+//            public void onFailure(int status, String msg) {
+//
+//            }
+//        });
+
     }
 
-    private void login() {
-        FastHttp.ajaxGetByBean(MyApplication.SERVER_URL + "login.html", new Req_Login("aa123a", "a123456"), new BaseAjaxCallBack() {
+    // 修改用户信息
+    private void setUserInfo(final UserInfo userInfo){
+        DialogUtil.showLoadingDialog(this);
+        FastHttp.ajaxGetByBean(MyApplication.SERVER_URL + "register/modify.html", userInfo, new BaseAjaxCallBack() {
             public void onSuccess(Res_BaseBean t) {
-
+                MyApplication.getApplication().setUserInfo(userInfo);
+                ToastUtil.showShort("恭喜您，修改成功");
+                finish();
             }
 
             public void onFailure(int status, String msg) {
-
+                ToastUtil.showShort(msg);
             }
         });
+
     }
 
     @Override
@@ -114,14 +130,22 @@ public class MainActivity extends BaseActivity implements View.OnClickListener{
             public void onCheckedChanged(RadioGroup group, int checkedId) {
                 switch(checkedId){
                     case R.id.rb_sex_man:
-                        MLogUtil.e("rb_sex_man");
+                        btn_user_sex.setText("男");
                         break;
                     case R.id.rb_sex_woman:
-                        MLogUtil.e("rb_sex_woman");
+                        btn_user_sex.setText("女");
                         break;
                     default:
                         break;
                 }
+                sexDialog.dismiss();
+                UserInfo userInfo = MyApplication.getApplication().getUserInfo();
+                if(userInfo == null){
+                    ToastUtil.showShort("暂无用户信息，请重新登录");
+                    return;
+                }
+                userInfo.setXb(btn_user_sex.getText().toString().trim());
+                setUserInfo(userInfo);
             }
         });
 
@@ -134,7 +158,6 @@ public class MainActivity extends BaseActivity implements View.OnClickListener{
 
     @Override
     public void onClick(View v) {
-
         switch(v.getId()){
             case R.id.btn_user_nick_name:
                 Bundle bundle = new Bundle();
@@ -150,6 +173,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener{
                 sexDialog.show();
                 break;
             case R.id.btn_user_pwd:
+                startActivity(ForgetPwdActivity.class);
                 break;
             case R.id.btn_user_company:
                 break;
@@ -158,7 +182,16 @@ public class MainActivity extends BaseActivity implements View.OnClickListener{
         }
     }
 
-    public void show(View view) {
-        startActivity(UpdatePwdActivity.class);
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+//        switch(resultCode){
+//            case Constant.UPDATE_NICK_NAME:
+//                break;
+//            case Constant.UPDATE_TRUE_NAME:
+//                break;
+//            default:
+//                break;
+//        }
+        super.onActivityResult(requestCode, resultCode, data);
     }
 }
