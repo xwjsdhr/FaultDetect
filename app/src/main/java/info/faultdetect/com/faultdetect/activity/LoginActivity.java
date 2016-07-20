@@ -15,7 +15,8 @@ import info.faultdetect.com.faultdetect.bean.Req_Login;
 import info.faultdetect.com.faultdetect.utils.ToastUtil;
 
 /**
- * Created by nicai on 2016/7/18.
+ * Created by nicai on 2016/7/19.
+ * email：930324291@qq.com
  */
 public class LoginActivity  extends BaseActivity implements View.OnClickListener{
     private EditText edt_login_name,edt_login_pwd;
