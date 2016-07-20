@@ -8,12 +8,12 @@
         "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\layout\\render_type_text.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\layout\\empty_loading.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\layout\\empty_loading.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\layout\\notification_inc.xml",
         "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\layout\\notification_inc.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\layout\\empty_loading.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\src\\main\\res\\layout\\empty_loading.xml"
     },
     {
         "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\release\\layout\\layout_photoitem.xml",

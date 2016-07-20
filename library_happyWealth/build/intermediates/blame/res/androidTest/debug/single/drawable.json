@@ -56,12 +56,12 @@
         "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\drawable\\tab_tv_bg_right.xml"
     },
     {
-        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_item_common.xml",
-        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_item_common.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_back_selector.xml",
         "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_back_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_item_common.xml",
+        "source": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_item_common.xml"
     },
     {
         "merged": "D:\\AndroidStudioWorkspace\\FaultDetect\\library_happyWealth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tab_tv_bg_center.xml",
