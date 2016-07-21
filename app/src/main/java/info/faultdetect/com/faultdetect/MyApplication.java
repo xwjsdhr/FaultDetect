@@ -14,6 +14,8 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
+import info.faultdetect.com.faultdetect.bean.UserInfo;
+
 public class MyApplication extends Application {
     public static String FILE_TEMP,PIC_TEMP,CACHE_TEMP,OSS_TEMP;
     public static String SERVER_URL;
@@ -53,6 +55,22 @@ public class MyApplication extends Application {
 
     public String getCookies() {
         return SharedPreferenceUtil.getSharedPreString(getApplicationContext(), "Cookies");
+    }
+
+    public void setUserInfo(UserInfo userInfo){
+        SharedPreferenceUtil.saveSharedPreObject(getApplicationContext(),"userInfo",userInfo);
+    }
+
+    public String getUserId(){
+        UserInfo userInfo= MyApplication.getApplication().getUserInfo();
+        if(userInfo != null){
+            return userInfo.getUserid();
+        }
+        return "";
+    }
+
+    public UserInfo getUserInfo(){
+        return SharedPreferenceUtil.getSharedPreObject(getApplicationContext(),"userInfo",UserInfo.class);
     }
 
     // 获取DB

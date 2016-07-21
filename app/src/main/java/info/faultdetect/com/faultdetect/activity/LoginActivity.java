@@ -5,6 +5,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.hw.common.ui.dialog.DialogUtil;
+import com.hw.common.utils.basicUtils.MLogUtil;
+import com.hw.common.utils.basicUtils.SharedPreferenceUtil;
 import com.hw.common.utils.basicUtils.StringUtils;
 import com.hw.common.web.FastHttp;
 
@@ -12,6 +15,8 @@ import info.faultdetect.com.faultdetect.MyApplication;
 import info.faultdetect.com.faultdetect.R;
 import info.faultdetect.com.faultdetect.bean.BaseAjaxCallBack;
 import info.faultdetect.com.faultdetect.bean.Req_Login;
+import info.faultdetect.com.faultdetect.bean.Res_Rsid;
+import info.faultdetect.com.faultdetect.bean.UserInfo;
 import info.faultdetect.com.faultdetect.utils.ToastUtil;
 
 /**
@@ -49,8 +54,18 @@ public class LoginActivity  extends BaseActivity implements View.OnClickListener
             return;
         }
 
+        DialogUtil.showLoadingDialog(this);
         FastHttp.ajaxGetByBean(MyApplication.SERVER_URL + "login.html", new Req_Login(name,pwd),new BaseAjaxCallBack() {
             public void onSuccess(Res_BaseBean t) {
+                Res_Rsid res_rsid = t.getData(Res_Rsid.class);
+                MLogUtil.e(res_rsid.getRsid());
+                SharedPreferenceUtil.saveSharedPreString(mContext,"rsid",res_rsid.getRsid());
+
+                MyApplication.getApplication().setUserInfo(t.getData(UserInfo.class,"user"));
+
+                UserInfo userInfo= MyApplication.getApplication().getUserInfo();
+                MLogUtil.e("userInfo "+userInfo.getUserid());
+
                 startActivity(MainActivity.class);
                 finish();
             }
@@ -80,8 +95,10 @@ public class LoginActivity  extends BaseActivity implements View.OnClickListener
                 login();
                 break;
             case R.id.btn_login_forget_pwd:
+                startActivity(ForgetPwdActivity.class);
                 break;
             case R.id.btn_login_regist:
+                startActivity(RegistActivity.class);
                 break;
             default:
                 break;

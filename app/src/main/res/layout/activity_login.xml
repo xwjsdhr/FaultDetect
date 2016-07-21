@@ -31,7 +31,7 @@
                 android:id="@+id/edt_login_name"
                 style="@style/style_edit"
                 android:hint="请输入用户名"
-                android:text="aa123a"
+                android:text="15964215047"
                 android:textColorHint="@color/white"
                 />
         </LinearLayout>

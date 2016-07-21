@@ -8,6 +8,7 @@
         style="@style/style_text"
         android:text="性别"
         android:layout_width="match_parent"
+        android:gravity="left|center_vertical"
         android:layout_height="90px"
         android:paddingLeft="20px"
         android:textSize="@dimen/text_font_second_title"/>
@@ -24,7 +25,7 @@
         <RadioButton
             android:id="@+id/rb_sex_man"
             android:layout_width="match_parent"
-            android:layout_height="90px"
+            android:layout_height="48dp"
             android:paddingLeft="40px"
             android:paddingRight="20px"
             android:text="男"
@@ -41,7 +42,7 @@
         <RadioButton
             android:id="@+id/rb_sex_woman"
             android:layout_width="match_parent"
-            android:layout_height="90px"
+            android:layout_height="48dp"
             android:paddingLeft="40px"
             android:paddingRight="20px"
             android:text="女"

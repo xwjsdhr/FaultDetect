@@ -15,7 +15,7 @@ public class UpdatePwdActivity extends BaseActivity {
 
     @Override
     protected void init() {
-
+        setTitle("修改密码");
     }
 
     @Override
